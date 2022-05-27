@@ -16,7 +16,7 @@ import (
 	"github.com/go-openapi/swag"
 	"github.com/go-openapi/validate"
 
-	"github.com/mattx/verizon-cloud-go/client/models"
+	"github.com/MattX/verizon-cloud-go/client/models"
 )
 
 // CreateContactsReader is a Reader for the CreateContacts structure.

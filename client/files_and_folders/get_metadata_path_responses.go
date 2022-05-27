@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/mattx/verizon-cloud-go/client/models"
+	"github.com/MattX/verizon-cloud-go/client/models"
 )
 
 // GetMetadataPathReader is a Reader for the GetMetadataPath structure.

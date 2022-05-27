@@ -1,4 +1,4 @@
-module github.com/mattx/verizon-cloud-go/client
+module github.com/MattX/verizon-cloud-go/client
 
 go 1.18
 
