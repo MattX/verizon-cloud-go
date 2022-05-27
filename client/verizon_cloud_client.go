@@ -10,14 +10,14 @@ import (
 	httptransport "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/MattX/verizon-cloud-go/client/client/account_info"
-	"github.com/MattX/verizon-cloud-go/client/client/contacts"
-	"github.com/MattX/verizon-cloud-go/client/client/favorites"
-	"github.com/MattX/verizon-cloud-go/client/client/files_and_folders"
-	"github.com/MattX/verizon-cloud-go/client/client/flashbacks"
-	"github.com/MattX/verizon-cloud-go/client/client/playlists"
-	"github.com/MattX/verizon-cloud-go/client/client/shares"
-	"github.com/MattX/verizon-cloud-go/client/client/tags"
+	"github.com/MattX/verizon-cloud-go/client/account_info"
+	"github.com/MattX/verizon-cloud-go/client/contacts"
+	"github.com/MattX/verizon-cloud-go/client/favorites"
+	"github.com/MattX/verizon-cloud-go/client/files_and_folders"
+	"github.com/MattX/verizon-cloud-go/client/flashbacks"
+	"github.com/MattX/verizon-cloud-go/client/playlists"
+	"github.com/MattX/verizon-cloud-go/client/shares"
+	"github.com/MattX/verizon-cloud-go/client/tags"
 )
 
 // Default verizon cloud HTTP client.

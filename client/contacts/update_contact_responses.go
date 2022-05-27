@@ -16,7 +16,7 @@ import (
 	"github.com/go-openapi/swag"
 	"github.com/go-openapi/validate"
 
-	"github.com/MattX/verizon-cloud-go/client/models"
+	"github.com/MattX/verizon-cloud-go/models"
 )
 
 // UpdateContactReader is a Reader for the UpdateContact structure.

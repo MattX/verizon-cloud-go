@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/MattX/verizon-cloud-go/client/models"
+	"github.com/MattX/verizon-cloud-go/models"
 )
 
 // RetrieveTrashReader is a Reader for the RetrieveTrash structure.
