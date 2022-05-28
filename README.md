@@ -1,5 +1,7 @@
 # Verizon Cloud Go
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/MattX/verizon-cloud-go.svg)](https://pkg.go.dev/github.com/MattX/verizon-cloud-go)
+
 This is an *unofficial* client for the [Verizon Cloud Personal Storage APIs](https://thingspace.verizon.com/resources/documentation/vzcloud/Try_It/). It is not created, maintained, or supported by Verizon.
 
 It was automatically generated with [swagger](https://swagger.io/) from [Verizon's swagger file](https://thingspace.verizon.com/content/dam/thingspace-portal/resources/documentation/swagger/ThingSpace_Cloud_Storage_API.json). The SHA256 hash of this file at the time of generation was:
